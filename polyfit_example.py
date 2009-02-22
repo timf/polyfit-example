@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 
 # Sample polyfit
-# timfreeman.org
+# author: tim@timfreeman.org
+# Apache2 license
 
 from pylab import *
 import math
